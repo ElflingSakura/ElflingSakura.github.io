@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>ECG-note</title>
-    <url>/2020/06/06/ECG-note/</url>
-    <content><![CDATA[
-
-	<div class="row">
-    <embed src="./ECG.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-]]></content>
-  </entry>
-  <entry>
-    <title>Essai 1</title>
-    <url>/2020/06/04/Essai%201/</url>
-    <content><![CDATA[<pre><code>利用唤醒的错误归因和曝光效应来处理拖延症、假性ADHD和虚无主义真是一种美好的体验。</code></pre>]]></content>
-      <categories>
-        <category>Essay随笔</category>
-      </categories>
-      <tags>
-        <tag>Essay</tag>
-        <tag>随笔</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Essai 2</title>
     <url>/2020/06/05/Essai%202/</url>
     <content><![CDATA[<pre><code>常常感到自己是一个神使。
@@ -38,9 +14,30 @@
       </tags>
   </entry>
   <entry>
+    <title>ECG-note</title>
+    <url>/2020/06/06/ECG-note/</url>
+    <content><![CDATA[<img src="/2020/06/06/ECG-note/Page1.jpg" class="">
+<img src="/2020/06/06/ECG-note/Page2.jpg" class="">
+<img src="/2020/06/06/ECG-note/Page3.jpg" class="">
+<img src="/2020/06/06/ECG-note/Page4.jpg" class="">
+<img src="/2020/06/06/ECG-note/Page5.jpg" class="">]]></content>
+  </entry>
+  <entry>
     <title>Essai 3</title>
     <url>/2020/06/05/Essai%203/</url>
     <content><![CDATA[<pre><code>不论是旋律还是文字，都是一种情感的寄托，情感的宣泄。只不过不是所有的都是罢了。</code></pre>]]></content>
+      <categories>
+        <category>Essay随笔</category>
+      </categories>
+      <tags>
+        <tag>Essay</tag>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Essai 1</title>
+    <url>/2020/06/04/Essai%201/</url>
+    <content><![CDATA[<pre><code>利用唤醒的错误归因和曝光效应来处理拖延症、假性ADHD和虚无主义真是一种美好的体验。</code></pre>]]></content>
       <categories>
         <category>Essay随笔</category>
       </categories>
@@ -74,6 +71,15 @@
       </tags>
   </entry>
   <entry>
+    <title>La commencement</title>
+    <url>/2020/06/04/La%20commencement/</url>
+    <content><![CDATA[<p>Bonjour~ 这里是“la eau claire”。此处为个人专业、兴趣及日常心情的分享地。不谈政治，不谈敏感话题。<br>有幸得您驻足，便是我的荣幸！</p>
+]]></content>
+      <categories>
+        <category>Bonjour</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Excerpt 3</title>
     <url>/2020/06/05/Excerpt%203/</url>
     <content><![CDATA[<pre><code>时尚就是阶级分野的产物。于宇宙言，一切皆无意义。于阶级言，时尚就是混沌。但没有成本体验，还是得有份心去了解。————齐美尔</code></pre>]]></content>
@@ -84,15 +90,6 @@
         <tag>excerpt</tag>
         <tag>文摘</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>La commencement</title>
-    <url>/2020/06/04/La%20commencement/</url>
-    <content><![CDATA[<p>Bonjour~ 这里是“la eau claire”。此处为个人专业、兴趣及日常心情的分享地。不谈政治，不谈敏感话题。<br>有幸得您驻足，便是我的荣幸！</p>
-]]></content>
-      <categories>
-        <category>Bonjour</category>
-      </categories>
   </entry>
   <entry>
     <title>Oddity 1</title>
