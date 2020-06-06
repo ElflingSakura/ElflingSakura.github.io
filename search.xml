@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ECG-note</title>
+    <url>/2020/06/06/ECG-note/</url>
+    <content><![CDATA[
+
+	<div class="row">
+    <embed src="./ECG.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+  </entry>
+  <entry>
     <title>Essai 1</title>
     <url>/2020/06/04/Essai%201/</url>
     <content><![CDATA[<pre><code>利用唤醒的错误归因和曝光效应来处理拖延症、假性ADHD和虚无主义真是一种美好的体验。</code></pre>]]></content>
@@ -38,9 +50,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Excerpt 2</title>
-    <url>/2020/06/05/Excerpt%202/</url>
-    <content><![CDATA[<pre><code>对于菲利普来说，世上再不会有比与海沃德为伍更糟糕的事了。海沃德这个人事带着十足的书生气来观察周围一切的，没有一丁点儿自己的看法；他很危险，是因为他欺骗自己，达到了诚心诚意的地步。他真诚地错把自己的肉欲当作浪漫的恋情，错把自己的优柔寡断视为艺术家的气质，还错吧自己的无所事事看成哲人的超然物外。他心智平庸，却孜孜追求高尚娴雅，因而，从他眼睛里望出去，所有的事物都蒙上了一层感伤的金色雾纱，轮廓模糊不清，结果就显得比实际的形象大些。他在撒谎，却从不知道自己在撒谎；当别人点破他时，他却说谎言是美的。他是一个理想主义者。————毛姆《人生的枷锁》</code></pre>]]></content>
+    <title>Excerpt 1</title>
+    <url>/2020/06/05/Excerpt%201/</url>
+    <content><![CDATA[<pre><code>我们的一生中，遇到爱、遇到性都不稀罕，稀罕的是遇到理解。————廖一梅</code></pre>]]></content>
       <categories>
         <category>Excerpt文摘</category>
       </categories>
@@ -50,9 +62,9 @@
       </tags>
   </entry>
   <entry>
-    <title>Excerpt 1</title>
-    <url>/2020/06/05/Excerpt%201/</url>
-    <content><![CDATA[<pre><code>我们的一生中，遇到爱、遇到性都不稀罕，稀罕的是遇到理解。————廖一梅</code></pre>]]></content>
+    <title>Excerpt 2</title>
+    <url>/2020/06/05/Excerpt%202/</url>
+    <content><![CDATA[<pre><code>对于菲利普来说，世上再不会有比与海沃德为伍更糟糕的事了。海沃德这个人事带着十足的书生气来观察周围一切的，没有一丁点儿自己的看法；他很危险，是因为他欺骗自己，达到了诚心诚意的地步。他真诚地错把自己的肉欲当作浪漫的恋情，错把自己的优柔寡断视为艺术家的气质，还错吧自己的无所事事看成哲人的超然物外。他心智平庸，却孜孜追求高尚娴雅，因而，从他眼睛里望出去，所有的事物都蒙上了一层感伤的金色雾纱，轮廓模糊不清，结果就显得比实际的形象大些。他在撒谎，却从不知道自己在撒谎；当别人点破他时，他却说谎言是美的。他是一个理想主义者。————毛姆《人生的枷锁》</code></pre>]]></content>
       <categories>
         <category>Excerpt文摘</category>
       </categories>
