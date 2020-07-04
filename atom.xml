@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="laeauclaire.art/"/>
-  <updated>2020-06-08T09:26:02.810Z</updated>
+  <updated>2020-07-04T15:27:52.429Z</updated>
   <id>laeauclaire.art/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Essai 7</title>
+    <link href="laeauclaire.art/2020/07/04/Essai%207/"/>
+    <id>laeauclaire.art/2020/07/04/Essai%207/</id>
+    <published>2020-07-04T15:25:46.000Z</published>
+    <updated>2020-07-04T15:27:52.429Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;center&gt;Le nouveau chapitre de la
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Essay随笔" scheme="laeauclaire.art/categories/Essay%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="Essay" scheme="laeauclaire.art/tags/Essay/"/>
+    
+      <category term="随笔" scheme="laeauclaire.art/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="Point" scheme="laeauclaire.art/tags/Point/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Art</title>
     <link href="laeauclaire.art/2020/06/08/Art/"/>
     <id>laeauclaire.art/2020/06/08/Art/</id>
     <published>2020-06-08T01:32:14.000Z</published>
-    <updated>2020-06-08T09:26:02.810Z</updated>
+    <updated>2020-06-08T09:26:02.000Z</updated>
     
     <summary type="html">
     
