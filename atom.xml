@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="laeauclaire.art/"/>
-  <updated>2020-07-05T06:28:55.556Z</updated>
+  <updated>2020-07-14T04:37:17.398Z</updated>
   <id>laeauclaire.art/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Life</title>
+    <link href="laeauclaire.art/2020/07/14/Life/"/>
+    <id>laeauclaire.art/2020/07/14/Life/</id>
+    <published>2020-07-14T04:35:15.000Z</published>
+    <updated>2020-07-14T04:37:17.398Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/2020/07/14/Life/1.JPG&quot; class=&quot;&quot;&gt;
+&lt;img src=&quot;/2020/07/14/Life/2.JPG&quot; class=&quot;&quot;&gt;
+&lt;img src=&quot;/2020/07/14/Life/3.JPG&quot; class=&quot;&quot;&gt;
+
+&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ArtShare" scheme="laeauclaire.art/categories/ArtShare/"/>
+    
+      <category term="Life" scheme="laeauclaire.art/categories/ArtShare/Life/"/>
+    
+    
+      <category term="Art" scheme="laeauclaire.art/tags/Art/"/>
+    
+      <category term="Share" scheme="laeauclaire.art/tags/Share/"/>
+    
+      <category term="Life" scheme="laeauclaire.art/tags/Life/"/>
+    
+  </entry>
   
   <entry>
     <title>Excerpt 6</title>
@@ -138,11 +175,11 @@
   </entry>
   
   <entry>
-    <title>Art</title>
-    <link href="laeauclaire.art/2020/06/08/Art/"/>
-    <id>laeauclaire.art/2020/06/08/Art/</id>
+    <title>Art 1</title>
+    <link href="laeauclaire.art/2020/06/08/Art%201/"/>
+    <id>laeauclaire.art/2020/06/08/Art%201/</id>
     <published>2020-06-08T01:32:14.000Z</published>
-    <updated>2020-06-08T09:26:02.000Z</updated>
+    <updated>2020-07-14T04:36:07.928Z</updated>
     
     <summary type="html">
     
@@ -150,10 +187,9 @@
       
         
         
-          &lt;img src=&quot;/2020/06/08/Art/a1.JPG&quot; class=&quot;&quot;&gt;
-&lt;img src=&quot;/2020/06/08/Art/a2.JPG&quot; class=&quot;&quot;&gt;
-&lt;img src=&quot;/2020/06/08/Art/a3.JPG&quot; class=&quot;&quot;&gt;
-&lt;img
+          &lt;img src=&quot;/2020/06/08/Art%201/a1.JPG&quot; class=&quot;&quot;&gt;
+&lt;img src=&quot;/2020/06/08/Art%201/a2.JPG&quot; class=&quot;&quot;&gt;
+&lt;img src=&quot;/2020/06/08/Art%201/a3.JPG&quot;
         
       
     
@@ -595,31 +631,6 @@
       <category term="Essay" scheme="laeauclaire.art/tags/Essay/"/>
     
       <category term="随笔" scheme="laeauclaire.art/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>La commencement</title>
-    <link href="laeauclaire.art/2020/06/04/La%20commencement/"/>
-    <id>laeauclaire.art/2020/06/04/La%20commencement/</id>
-    <published>2020-06-04T04:55:35.000Z</published>
-    <updated>2020-06-06T15:23:53.717Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&amp;#8195;&amp;#8195;Bonjour~ 这里是“la eau
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Bonjour" scheme="laeauclaire.art/categories/Bonjour/"/>
-    
     
   </entry>
   
